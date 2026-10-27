@@ -1,0 +1,7 @@
+# Documentos locales, guías e informes
+*.pdf
+*.docx
+*.typ
+*.txt
+assets/
+ISSUE_EEI_TEMPLATE.md
